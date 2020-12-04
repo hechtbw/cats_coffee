@@ -1,0 +1,8 @@
+/* home page stylesheet */
+#jumbo, #navbar {
+  opacity: 0.9;
+  background: #000;
+}
+.jumbotron {
+  border-radius: 0;
+}
